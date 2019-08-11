@@ -1,0 +1,52 @@
+{
+    "1": {
+        "case_name": "Simone Castello - XYZ Lending, Inc",
+        "case_type": "Real Estate Foreclosure",
+        "case_status": "In Court",
+        "relief": "$55,000,000",
+        "location": "Detroit, Michigan, United States",
+        "details": "Summons Served on 01\/01\/2010",
+        "submission_date": "2019-07-09",
+        "deleted": "n"
+    },
+    "2": {
+        "case_name": "XXX (Real Builders - Img group, Inc)",
+        "case_type": "Workers Comp Case",
+        "case_status": "Transfered",
+        "relief": "$1,500,000.00",
+        "location": "Toronto, Canda",
+        "details": "Summons Served on 01\/01\/2010",
+        "submission_date": "2001-05-22",
+        "deleted": "n"
+    },
+    "3": {
+        "case_name": "Gelato Express - ABC, Inc",
+        "case_type": "Medical Malpractice",
+        "case_status": "New",
+        "relief": "$650,000.12",
+        "location": "New York, New York, United States",
+        "details": "Summons Served on 01 \/ 01 \/ 2010",
+        "submission_date": "2018-12-12",
+        "deleted": "n"
+    },
+    "4": {
+        "case_name": "NY Realtors - ABF Construction, Inc",
+        "case_type": "Auto Accident",
+        "case_status": "New",
+        "relief": "$100,000",
+        "location": "San Francisco, LA United States",
+        "details": "Summons Served on 01 \/ 01 \/ 2010",
+        "submission_date": "2019-04-30",
+        "deleted": "n"
+    },
+    "5": {
+        "case_name": "Galbano vs Romano",
+        "case_type": "Auto Accident",
+        "case_status": "Transfered",
+        "relief": "$1,000,000",
+        "location": "New Jersey",
+        "details": "Summonos Served 11\/1\/2015",
+        "submission_date": "2018-09-24",
+        "deleted": "n"
+    }
+}

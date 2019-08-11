@@ -1,0 +1,97 @@
+    @import url('https://fonts.googleapis.com/css?family=Merriweather&display=swap');
+
+    .navbar {
+        background-color: #131d33;
+    }
+
+    h1,
+    h2,
+    h3 {
+        font-family: 'Merriweather', serif;
+        color: #131d30;
+    }
+
+    .gold-col {
+        padding: 1rem 2rem 1rem;
+        background-image: linear-gradient(180deg, #ac935a 0, #eed996 22.7%);
+        //position: relative;
+    }
+
+    .btn-dark-blue {
+        background-color: #131D33;
+        color: #eed996;
+    }
+
+    #proof h3 {
+        color: #fff;
+    }
+
+    footer {
+        background-color: #231b0e;
+        //height: 100px;
+        color: #fff;
+        padding-top: 15px;
+    }
+
+
+    .quick-links li a {
+        color: rgba(255, 255, 255, .5);
+    }
+
+    .quick-links a {
+        color: rgba(255, 255, 255, .5);
+    }
+
+    .quick-links {
+        color: rgba(255, 255, 255, .5);
+    }
+
+
+    footer h5 {
+        color: #eed996;
+    }
+
+    #dashboard-menu h5,
+    #dashboard-menu a {
+        color: #eed996;
+    }
+
+    #dashboard li {
+        padding-bottom: 10px;
+        padding-left: 5px;
+    }
+
+    hr {
+        height: 1px;
+        background-color: aliceblue;
+        border: 1px;
+    }
+
+    .no-wrap {
+        white-space: nowrap;
+        font-size: 0.8rem;
+    }
+
+    .widget-header {
+        color: #004BEB;
+    }
+
+    .widget-font {
+        font-size: 0.8rem;
+    }
+
+    .inprogress {
+        color: cornflowerblue;
+        font-weight: bold;
+        font-family: serif;
+    }
+
+    .completed {
+        color: #9CCB5D;
+        font-weight: bold;
+        font-family: serif;
+    }
+
+    .dlt-link:hover {
+        text-decoration: underline;
+    }

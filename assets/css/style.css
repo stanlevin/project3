@@ -1,0 +1,103 @@
+    @import url('https://fonts.googleapis.com/css?family=Merriweather&display=swap');
+
+    .navbar {
+        background-color: #131d33;
+    }
+
+    /* from BM3 sample */
+    #hero {
+        background-image: url(../img/splash3.jpg);
+        background-position: center center;
+        background-size: cover;
+        padding-top: 200px;
+        padding-bottom: 0px;
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+
+    #herocontent {
+        background: rgba(255, 255, 255, .75);
+        padding: 30px;
+        max-width: 600px;
+        position: relative;
+        right: 0px;
+    }
+
+    #herocontent h1 {
+        font-size: 35px;
+    }
+
+    #heromobile {
+        display: none;
+    }
+
+    /* 380 */
+    @media screen and (max-width:768px) {
+        #hero {
+            display: none;
+        }
+
+        #heromobile {
+            display: block;
+        }
+
+        #heromobile div {
+            padding: 10px;
+            border-bottom: 1px solid #ccc;
+        }
+    }
+
+    /* not needed if using grid system
+        .cnt {
+            display: flex;
+            justify-content: flex-end;
+        }
+        */
+
+    h1,
+    h2,
+    h3 {
+        font-family: 'Merriweather', serif;
+        color: #131d30;
+    }
+
+    .gold-col {
+        padding: 1rem 2rem 1rem;
+        background-image: linear-gradient(180deg, #ac935a 0, #eed996 22.7%);
+        //position: relative;
+    }
+
+
+    .btn-blue {
+        background-color: #131d30;
+        color: #fff;
+    }
+
+    #proof h3 {
+        color: #fff;
+    }
+
+    footer {
+        background-color: #231b0e;
+        //height: 100px;
+        color: #fff;
+        padding-top: 15px;
+    }
+
+
+    .quick-links li a {
+        color: rgba(255, 255, 255, .5);
+    }
+
+    .quick-links a {
+        color: rgba(255, 255, 255, .5);
+    }
+
+    .quick-links {
+        color: rgba(255, 255, 255, .5);
+    }
+
+
+    footer h5 {
+        color: #eed996;
+    }
